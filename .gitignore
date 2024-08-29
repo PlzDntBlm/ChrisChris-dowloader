@@ -12,4 +12,5 @@ gen
 /httpRequests/
 
 #mp3 files
-*.mp3
+**/*.mp3
+
