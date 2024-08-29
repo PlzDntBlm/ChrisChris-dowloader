@@ -1,6 +1,3 @@
-### Example user template template
-### Example user template
-
 # IntelliJ project files
 .idea
 *.iml
@@ -13,3 +10,6 @@ gen
 
 # Editor-based HTTP Client requests
 /httpRequests/
+
+#mp3 files
+*.mp3
